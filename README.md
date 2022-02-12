@@ -22,4 +22,4 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg"/>
   
-  ![Snake animation](https://github.com/Eduvsky/Eduvkye/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Eduvsky/Eduvky/blob/output/github-contribution-grid-snake.svg)
