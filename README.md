@@ -1,4 +1,4 @@
-## Olá sou o Skye 
+## Olá 
 
 - 🔭 Atualmente trabalhando com FrontEnd e C#
 - 🌱 Estudando Frameworks como React, Angular e Electron
