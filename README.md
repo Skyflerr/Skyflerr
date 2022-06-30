@@ -5,9 +5,9 @@
 - 📫 Podes falar comigo pelo meu email: skyemails1@gmail.com
 
 <div align="center">
-  <a href="https://github.com/Eduvsky">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduvsky&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduvsky&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Skyflerr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skyflerr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyflerr&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <img align="center" alt="Skye-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
