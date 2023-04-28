@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente Estudando Nanotecnologia na UFRJ
 - 🌱 Aprimorando Linguagens como C e Python e estudando Matematica logica e Calculo
-- 📫 Podes falar comigo pelo meu email: skyemails1@gmail.com
+- 📫 Podes falar comigo pelo meu email: midgard01@skiff.com
 
 <div align="center">
   <a href="https://github.com/Skyflerr">
