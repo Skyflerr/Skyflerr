@@ -1,6 +1,6 @@
 <div align="center">
 
-**Computational Biology · Bionanotechnology · Applied Linear Algebra**
+# **Computational Biology · Bionanotechnology · Applied Linear Algebra**
 
 *Nanotechnology undergraduate at UFRJ (biotechnology emphasis) — building systems where biological structure, algebraic representation, and low-level engineering intersect.*
 
